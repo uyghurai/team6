@@ -1,0 +1,4 @@
+1.Create index.html which contains Bootstrap then include a simple picture and your team's name and Welcome message. There should be a link to each team member and when it's clicked it should open a new tab and load the page of that tema member.
+
+2. Each team member to create yourname.html with Bootstrap(example, mike.html) and introduce yourself. There should be name, grade, cartoon picture and hobby etc.
+
