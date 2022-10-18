@@ -1,0 +1,28 @@
+.b1{
+    font-size: 30px;
+    color: rgb(67, 62, 62);
+}
+body{
+    background-image: url("background_index.jpg");
+}
+.h1_1{
+    font-size: 50px;
+    color: chocolate;
+    letter-spacing: 2px;
+    font-family: 'Roboto';
+}
+.h1_2{
+    color: darkblue;
+    font-family: cursive;
+}
+label{
+    color: white;
+    font-size: 30px;
+    letter-spacing: 3px;
+    border-radius: 20%;
+    border: solid aqua 2px;
+}
+th{
+    border: dashed black 2px;
+    width: 100%;
+}
