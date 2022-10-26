@@ -9,7 +9,7 @@ body{
     font-size: 50px;
     color: chocolate;
     letter-spacing: 2px;
-    font-family: 'Roboto';
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .h1_2{
     color: darkblue;
@@ -24,5 +24,14 @@ label{
 }
 th{
     border: dashed black 2px;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    background-color: rgb(28, 25, 25);
+    color: gray;
+    font-size: 15px;
+    position: fixed;
+    bottom: 0;
     width: 100%;
 }
